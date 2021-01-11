@@ -19,6 +19,10 @@
       <groupId>com.jayway.jsonpath</groupId>
       <artifactId>json-path</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.sendgrid</groupId>
+      <artifactId>sendgrid-java</artifactId>
+    </dependency>
   </dependencies>
 
   <dependencyManagement>
